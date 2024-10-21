@@ -6,9 +6,9 @@
         "image1": "images/mens_pants.jpg",
         "image2": "images/mens_pants2.jpg",
         "image3": "images/mens_pants3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Slacks",
+        "img2cap": "Khakis",
+        "img3cap": "Shorts",
         "gender":"m"
       },
       {
@@ -17,9 +17,9 @@
         "image1": "images/mens_watch.jpg",
         "image2": "images/mens_watch2.jpg",
         "image3": "images/mens_watch3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Modern",
+        "img2cap": "Timeless",
+        "img3cap": "Fun",
         "gender":"m"
       },
       {
@@ -28,9 +28,9 @@
         "image1": "images/mens_shirts.jpg",
         "image2": "images/mens_shirts2.jpg",
         "image3": "images/mens_shirts3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Button Ups",
+        "img2cap": "Polos",
+        "img3cap": "Formal",
         "gender":"m"
       },
       {
@@ -39,9 +39,9 @@
         "image1": "images/mens_shoes.jpg",
         "image2": "images/mens_shoes2.jpg",
         "image3": "images/mens_shoes3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Dress",
+        "img2cap": "Flats",
+        "img3cap": "Sneakers",
         "gender":"m"
       },
       {
@@ -50,9 +50,9 @@
         "image1": "images/womens_pants.jpg",
         "image2": "images/womens_pants2.jpg",
         "image3": "images/womens_pants3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Flared",
+        "img2cap": "Slacks",
+        "img3cap": "Jean Shorts",
         "gender":"w"
       },
       {
@@ -61,9 +61,9 @@
         "image1": "images/womens_purse.jpg",
         "image2": "images/womens_purse2.jpg",
         "image3": "images/womens_purse3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Crossbody",
+        "img2cap": "Shoulder",
+        "img3cap": "Satchel",
         "gender":"w"
       },
       {
@@ -72,9 +72,9 @@
         "image1": "images/womens_shirts.jpg",
         "image2": "images/womens_shirts2.jpg",
         "image3": "images/womens_shirts3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Button Ups",
+        "img2cap": "Formal",
+        "img3cap": "Casual",
         "gender":"w"
       },
       {
@@ -83,9 +83,9 @@
         "image1": "images/womens_shoes.jpg",
         "image2": "images/womens_shoes2.jpg",
         "image3": "images/womens_shoes3.jpg",
-        "img1cap": "caption1",
-        "img2cap": "caption2",
-        "img3cap": "caption3",
+        "img1cap": "Heals",
+        "img2cap": "Flats",
+        "img3cap": "Sneakers",
         "gender":"w"
       }
     ]
