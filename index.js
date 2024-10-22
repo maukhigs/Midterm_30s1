@@ -37,8 +37,8 @@ const loadCategories = (myCategories, option) => {
                       <button class="prev-btn">←</button>
                       <img src="${images[currentImageIndex]}" class="border border-warning rounded" alt="${article}" height="300px" width="200px">
                       <button class="next-btn">→</button>
-                      <p class="lead">${description}</p>
                       <p class="caption">${captions[currentImageIndex]}</p>
+                      <p class="lead">${description}</p>
                   </div>
               </div>
           </div>`;
